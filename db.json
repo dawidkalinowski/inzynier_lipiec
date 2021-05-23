@@ -1,0 +1,239 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "jolene",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis turpis justo, molestie molestie enim vulputate eu. Proin tincidunt fermentum sem, ut pellentesque est dictum a.",
+      "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/j/o/jolene_61_3_.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Sirrus",
+      "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+      "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Rower",
+      "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+      "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+      "price": 299
+    },
+    {
+      "id": 4,
+      "name": "Rower Miejski",
+      "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+      "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "name": "Rower mtb",
+      "description": "Etiam in erat id massa iaculis egestas. Proin in est quis lacus eleifend pharetra.",
+      "imageUrl": "https://www.mediaexpert.pl/media/cache/filemanager_original/product/1/556/130/866/p6leqf2d/icons/mtb.jpg",
+      "price": 299
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "Sirrus",
+        "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rower Miejski",
+        "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+        "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rower",
+        "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+        "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+        "price": 299
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rower",
+        "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+        "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+        "price": 299
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Sirrus",
+        "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+        "price": 299
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Sirrus",
+        "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+        "price": 299
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rower",
+        "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+        "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rower",
+        "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+        "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Sirrus",
+        "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rower Miejski",
+        "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+        "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rower Miejski",
+        "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+        "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+        "price": 299
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rower",
+        "description": "Donec non semper velit. Nam id turpis vitae magna scelerisque tempus. Praesent non turpis et risus lobortis elementum. Etiam semper facilisis vestibulum.",
+        "imageUrl": "https://static.s123-cdn.com/uploads/2445472/2000_602c29320b0b0.png",
+        "price": 299
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Sirrus",
+        "description": "Morbi gravida sem turpis, sed blandit nulla elementum a. Proin efficitur, lacus eget scelerisque varius, metus felis pellentesque elit, id mattis justo lectus nec libero.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/s/i/sirrus_2.0.jpg",
+        "price": 299
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "jolene",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis turpis justo, molestie molestie enim vulputate eu. Proin tincidunt fermentum sem, ut pellentesque est dictum a.",
+        "imageUrl": "https://swiatrowerow.com.pl/media/catalog/product/cache/3/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/j/o/jolene_61_3_.jpg",
+        "price": 299
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rower Miejski",
+        "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+        "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+        "price": 299
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Rower mtb",
+        "description": "Etiam in erat id massa iaculis egestas. Proin in est quis lacus eleifend pharetra.",
+        "imageUrl": "https://www.mediaexpert.pl/media/cache/filemanager_original/product/1/556/130/866/p6leqf2d/icons/mtb.jpg",
+        "price": 299
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rower Miejski",
+        "description": "Mauris sodales augue vitae orci hendrerit, non laoreet lacus efficitur.",
+        "imageUrl": "https://a.allegroimg.com/s128/1117a9/8da87b8a4908b9a02b1a0a6a8b82/ROWER-MIEJSKI-28-Damski-Damka-Biegi-6-KOSZYK",
+        "price": 299
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Rower mtb",
+        "description": "Etiam in erat id massa iaculis egestas. Proin in est quis lacus eleifend pharetra.",
+        "imageUrl": "https://www.mediaexpert.pl/media/cache/filemanager_original/product/1/556/130/866/p6leqf2d/icons/mtb.jpg",
+        "price": 299
+      },
+      "id": 18
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
