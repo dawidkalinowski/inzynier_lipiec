@@ -29,3 +29,8 @@
   color: palevioletred;
   cursor: pointer;
 }
+
+.guest-form-card h2 {
+
+  text-transform: uppercase;
+}

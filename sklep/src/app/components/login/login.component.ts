@@ -9,7 +9,17 @@ export class LoginComponent implements OnInit {
 
   constructor() { }
 
+
+  model: any = {}
+
   ngOnInit() {
+  }
+
+
+
+  login() {
+
+    console.log(this.model)
   }
 
 }
