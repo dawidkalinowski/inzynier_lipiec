@@ -1,5 +1,60 @@
-<p>register works!</p>
+<div class="row">
+    <div class="col-md-4 offset-md-4">
+        <div class="guest-form-card card">
+            <div class="card-header text-center">
+                <h2>Zarejestruj</h2>
+            </div>
+            <div class="card-body">
+                <form [formGroup]="registerForm" (ngSubmit)="register()">
 
-<p>
-    <a [routerLink]="['/login']">Login</a>
-</p>
+                    <div class="form-group">
+                        <label for="name">Imie i Nazwisko</label> 
+                        <input 
+                            id="name" 
+                            class="form-control"
+                            [ngClass]="{'is-invalid': registerForm.get('name').touched && registerForm.get('name').invalid } "
+                            formControlName="name" 
+                        />
+                        <span class="invalid-feedback">Pole imie nie moze byc puste</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">E-mail</label> 
+                        <input type="email" id="email" class="form-control" formControlName="email" />
+                        <span class="invalid-feedback">Pole email nie moze byc puste</span>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label for="username">Nazwa uzytkownika</label> 
+                        <input id="username" class="form-control" formControlName="username"/>
+                        <span class="invalid-feedback">Pole uzytkownika nie moze byc puste</span>
+                    </div>
+
+
+
+
+
+                    <div class="form-group">
+                        <label for="password">Haslo</label>
+                        <input type="password" id="password" class="form-control" formControlName="password"/>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="confirmPassword">Potwierdz haslo</label>
+                        <input type="password" id="confirmPassword" class="form-control" formControlName="confirmPassword" />
+                    </div>
+
+
+
+
+
+
+                    <button class="btn btn-primary btn-block">Zarejestruj</button>
+                </form>
+            </div>    
+        </div>
+    </div>
+</div>
